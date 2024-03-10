@@ -1,0 +1,26 @@
+{
+  "language.name": "English",
+  "language.region": "United States",
+  "language.code": "en_us",
+  "gui.advancements": "§fAdvancements",
+  "itemGroup.buildingBlocks": "§fBuilding Blocks",
+  "itemGroup.coloredBlocks": "§fColored Blocks",
+  "itemGroup.natural": "§fNatural Blocks",
+  "itemGroup.functional": "§fFunctional Blocks",
+  "itemGroup.decorations": "§fDecoration Blocks",
+  "itemGroup.redstone": "§fRedstone Blocks",
+  "itemGroup.transportation": "§fTransportation",
+  "itemGroup.misc": "§fMiscellaneous",
+  "itemGroup.search": "§fSearch Items",
+  "itemGroup.food": "§fFoodstuffs",
+  "itemGroup.tools": "§fTools & Utilities",
+  "itemGroup.combat": "§fCombat",
+  "itemGroup.foodAndDrink": "§fFood & Drinks",
+  "itemGroup.ingredients": "§fIngredients",
+  "itemGroup.spawnEggs": "§fSpawn Eggs",
+  "itemGroup.brewing": "§fBrewing",
+  "itemGroup.materials": "§fMaterials",
+  "itemGroup.inventory": "§fSurvival Inventory",
+  "itemGroup.hotbar": "§fSaved Hotbars"
+}
+
