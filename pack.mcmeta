@@ -1,6 +1,7 @@
 {
   "pack": {
-    "pack_format": 15,
-    "description": "Simplex 16x by: Father_4U\n§6March 2024 Alpha"
+    "pack_format": 22,
+    "supported_formats": {"min_inclusive": 15, "max_inclusive": 22},
+    "description": "Simplex 16x by: Father_4U\n §6March 2024 Beta"
   }
 }
